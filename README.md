@@ -1,7 +1,8 @@
-smelter
+Smelter
 =======
+Smelter is simple plugin used to smelt items from your hand! You can use it as a VIP perk on your server or give it to your players for easier smelting different type of items.
 
-The Smelter Plugin
+/smelt - smelts item/s that you're currently holding
+Permissions
 
-
-This is the official github for the Smelter plugin. A more detailed readme is coming soon.
+smelter.use - allow players to use /smelt command
