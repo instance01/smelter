@@ -2,7 +2,8 @@ name: Smelter
 main: com.spoljo.smelter.Smelter
 version: 1.0
 authors:
- - toastedtruth
+ - spoljo666karlo
+ - instancelabs
 description: Smelt items using commands.
 commands:
   smelt:
