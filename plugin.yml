@@ -1,0 +1,14 @@
+name: Smelter
+main: com.spoljo.smelter.Smelter
+version: 1.0
+authors:
+ - toastedtruth
+description: Smelt items using commands.
+commands:
+  smelt:
+    description: Smelts your items from your hand.
+    usage: /smelt
+permissions:
+  smelter.use:
+    Description: Allows the use of the /smelt command.
+    default: false
